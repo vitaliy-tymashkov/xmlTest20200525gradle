@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<customer id="1">
+    <name>Ivan</name>
+    <mark>99</mark>
+    <note>note here</note>
+</customer>
